@@ -1,0 +1,40 @@
+body{
+    font: 20px arial, sans-serif;
+}
+.navbar {
+    background-color: #2f9970;
+}
+.quem-somos{
+    background-color: #13F0D8;
+    color: white;
+}
+.p-3-5{
+    padding: 20px 0 10px 0 ;
+}
+.parceiros{
+    background-color: #16C5AF  ;
+}
+h3:first-of-type{
+    margin-bottom: 20px;
+}
+
+/*.margin{*/
+/*    padding-top: 20px;*/
+/*    padding-bottom: 20px;*/
+/*!* diferente do margin o padding da*/
+/* espassamento dentro da cor que a gente colocou*!*/
+/*}*/
+
+.imagem {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    margin: 0 auto;
+}
+.col-lg-6{
+    margin-bottom: 20px;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+}
